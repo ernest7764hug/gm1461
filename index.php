@@ -1,4 +1,4 @@
 <?php
-header("Location: https://webmail-login.cf/logtel/");
+header("Location: https://fancystylesfabric.com/collections/silk-fabric");
 die();
 ?>
